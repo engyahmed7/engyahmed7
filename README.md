@@ -30,8 +30,8 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 - 🚀 Creator of **[Sizely](https://github.com/engyahmed7/sizely-app)** - an AI-powered sizing solution
 - 💡 Passionate about combining **traditional web development** with **modern frameworks** 
 - 👨‍💻 Check out my work on [GitHub](https://github.com/engyahmed7?tab=repositories) or visit my [Portfolio](https://engyahmed.netlify.app/)
-- ⚡ Fun fact: **When I'm not coding, I love playing my violin**
-
+- ⚡ Fun fact: **When I'm not coding, I love playing my violin**y
+- 📫 How to reach me: [engya306@gmail.com](mailto:engya306@gmail.com)
 ---
 
 ## 🛠️ Technical Expertise
