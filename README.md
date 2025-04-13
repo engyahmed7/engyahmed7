@@ -27,11 +27,10 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 
 - 🔭 Currently working as a Software Engineer at Objects
 - 🌱 Exploring **AI integration** with web applications using **TensorFlow** and **PoseNet**
-- 🚀 Creator of **[Sizely](https://github.com/engyahmed7/sizely-app)** - an AI-powered sizing solution using computer vision
-- 💡 Passionate about combining **traditional web development** with **modern frameworks** like Next.js
-- 🌍 Open to collaboration on innovative web and AI projects
+- 🚀 Creator of **[Sizely](https://github.com/engyahmed7/sizely-app)** - an AI-powered sizing solution
+- 💡 Passionate about combining **traditional web development** with **modern frameworks** 
 - 👨‍💻 Check out my work on [GitHub](https://github.com/engyahmed7?tab=repositories) or visit my [Portfolio](https://engyahmed.netlify.app/)
-- ⚡ Fun fact: **I solve Rubik's cubes to clear my mind when debugging complex problems**
+- ⚡ Fun fact: **When I'm not coding, I love playing my violin**
 
 ---
 
