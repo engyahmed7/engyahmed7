@@ -52,10 +52,6 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engyahmed7&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&line_height=28" alt="GitHub Stats" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engyahmed7&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engyahmed7&theme=vue&utcOffset=3" alt="Coding Activity" width="49%" />
 </div>
