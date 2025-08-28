@@ -71,11 +71,11 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 </div>
 
 <div align="center">
-  <a href="https://github.com/engyahmed7/Vacation_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=Vacation_Tracker&theme=vue-dark&hide_border=true" width="49%" />
+  <a href="https://github.com/engyahmed7/laravel-plaid-to-stripe-payments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=laravel-plaid-to-stripe-payments&theme=vue-dark&hide_border=true" width="49%" />
   </a>
- <a href="https://github.com/engyahmed7/food-tracking-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=food-tracking-system&theme=vue-dark&hide_border=true" width="49%" />
+ <a href="https://github.com/engyahmed7/vehicle-ai-inspector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=vehicle-ai-inspector&theme=vue-dark&hide_border=true" width="49%" />
   </a>
 </div>
 
