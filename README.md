@@ -52,8 +52,8 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engyahmed7&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engyahmed7&theme=vue&utcOffset=3" alt="Coding Activity" width="49%" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engyahmed7&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engyahmed7&layout=compact&theme=vue-dark&hide_border=true"/>
 </div>
 
 ---
@@ -62,20 +62,20 @@ I'm a passionate Full Stack Developer focused on crafting elegant, scalable solu
 
 <div align="center">
     <a href="https://github.com/engyahmed7/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=portfolio&theme=vue-dark&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=portfolio&theme=vue-dark&hide_border=true" width="49%" />
   </a>
   <a href="https://github.com/engyahmed7/sizely-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=sizely-app&theme=vue-dark&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=sizely-app&theme=vue-dark&hide_border=true" width="49%" />
   </a>
  
 </div>
 
 <div align="center">
   <a href="https://github.com/engyahmed7/laravel-plaid-to-stripe-payments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=laravel-plaid-to-stripe-payments&theme=vue-dark&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=laravel-plaid-to-stripe-payments&theme=vue-dark&hide_border=true" width="49%" />
   </a>
  <a href="https://github.com/engyahmed7/vehicle-ai-inspector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engyahmed7&repo=vehicle-ai-inspector&theme=vue-dark&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=vehicle-ai-inspector&theme=vue-dark&hide_border=true" width="49%" />
   </a>
 </div>
 
