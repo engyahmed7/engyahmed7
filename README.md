@@ -23,14 +23,22 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack Developer focused on crafting elegant, scalable solutions using modern web technologies. I specialize in building exceptional digital experiences with a focus on performance, accessibility, and clean architecture.
+I'm a **Software Engineer** passionate about building scalable, high-performance web applications and solving complex engineering challenges. I specialize in designing robust backend systems with **Laravel**, while also developing modern, responsive frontends using **React** and **Angular**.
 
-- 🔭 Currently working as a Software Engineer at Objects
-- 🌱 Exploring **AI integration** with web applications using **TensorFlow** and **PoseNet**
-- 🚀 Creator of **[Sizely](https://github.com/engyahmed7/sizely-app)** - an AI-powered sizing solution
-- 💡 Passionate about combining **traditional web development** with **modern frameworks** 
-- 👨‍💻 Check out my work on [GitHub](https://github.com/engyahmed7?tab=repositories) or visit my [Portfolio](https://engyahmed.netlify.app/)
-- 📫 How to reach me: [engya306@gmail.com](mailto:engya306@gmail.com)
+Currently at **Objects**, I build production-ready solutions including multi-tenant platforms, real-time communication, payment integrations, location tracking, identity verification, and AI-powered applications. I enjoy writing clean, maintainable code and applying software design principles to create systems that scale.
+
+### 🚀 What I work with
+
+- Designing scalable backend architectures with **Laravel** & **PHP**
+- Building real-time applications using **Laravel Reverb**, **WebSockets**, and **Redis**
+- Integrating payment solutions including **Stripe**, **PayPal**, and recurring billing
+- Developing GPS and Google Maps integrations for live tracking applications
+- Exploring AI-powered solutions with **TensorFlow.js** and **PoseNet**
+- Working with Docker, CI/CD, GitHub Actions, and modern development workflows
+
+### 💡 Beyond Coding
+
+> I believe great software is more than writing code—it's about understanding problems, designing thoughtful solutions, and continuously improving. I'm driven by curiosity, enjoy learning emerging technologies, and strive to build products that are scalable, maintainable, and make a meaningful impact.
 ---
 
 ## 🛠️ Technical Expertise
