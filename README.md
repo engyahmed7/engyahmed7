@@ -21,13 +21,13 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a **Software Engineer** passionate about building scalable, high-performance web applications and solving complex engineering challenges. I specialize in designing robust backend systems with **Laravel**, while also developing modern, responsive frontends using **React** and **Angular**.
 
 Currently at **Objects**, I build production-ready solutions including multi-tenant platforms, real-time communication, payment integrations, location tracking, identity verification, and AI-powered applications. I enjoy writing clean, maintainable code and applying software design principles to create systems that scale.
 
-### 🚀 What I work with
+### What I work with
 
 - Designing scalable backend architectures with **Laravel** & **PHP**
 - Building real-time applications using **Laravel Reverb**, **WebSockets**, and **Redis**
@@ -41,7 +41,7 @@ Currently at **Objects**, I build production-ready solutions including multi-ten
 > I believe great software is more than writing code—it's about understanding problems, designing thoughtful solutions, and continuously improving. I'm driven by curiosity, enjoy learning emerging technologies, and strive to build products that are scalable, maintainable, and make a meaningful impact.
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### **Frontend Development**  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
@@ -75,7 +75,7 @@ Currently at **Objects**, I build production-ready solutions including multi-ten
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engyahmed7&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true"/>
@@ -84,24 +84,24 @@ Currently at **Objects**, I build production-ready solutions including multi-ten
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
     <a href="https://github.com/engyahmed7/portfolio">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=portfolio&theme=vue-dark&hide_border=true" width="49%" />
   </a>
-  <a href="https://github.com/engyahmed7/sizely-app">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=sizely-app&theme=vue-dark&hide_border=true" width="49%" />
+  <a href="https://github.com/engyahmed7/bulk-consent-processing">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=bulk-consent-processing&theme=vue-dark&hide_border=true" width="49%" />
   </a>
  
 </div>
 
 <div align="center">
-  <a href="https://github.com/engyahmed7/laravel-plaid-to-stripe-payments">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=laravel-plaid-to-stripe-payments&theme=vue-dark&hide_border=true" width="49%" />
+  <a href="https://github.com/engyahmed7/sizely-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=sizely-app&theme=vue-dark&hide_border=true" width="49%" />
   </a>
- <a href="https://github.com/engyahmed7/vehicle-ai-inspector">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=vehicle-ai-inspector&theme=vue-dark&hide_border=true" width="49%" />
+ <a href="https://github.com/engyahmed7/rabbitmq-outbox-pattern">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=engyahmed7&repo=rabbitmq-outbox-pattern&theme=vue-dark&hide_border=true" width="49%" />
   </a>
 </div>
 
